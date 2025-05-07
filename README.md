@@ -35,4 +35,4 @@ This is a simple Android application that allows users to convert an amount from
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/tynoee/currency-converter-app.git
+   git clone https://github.com/Tynoee/currency-converter-app.git
